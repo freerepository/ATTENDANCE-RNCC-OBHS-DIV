@@ -5,11 +5,19 @@
       <map>
         <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/dialog_attendance.xml" value="0.27291666666666664" />
+        <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_admin.xml" value="0.27291666666666664" />
+        <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_atdetail.xml" value="0.27291666666666664" />
+        <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_atlist.xml" value="0.27291666666666664" />
         <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_attendance.xml" value="0.27291666666666664" />
         <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_maintain.xml" value="0.27291666666666664" />
         <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_register.xml" value="0.27291666666666664" />
+        <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_setting.xml" value="0.27291666666666664" />
         <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_udetail.xml" value="0.27291666666666664" />
         <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/fragment_users.xml" value="0.27291666666666664" />
+        <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/item_aboutset.xml" value="0.27291666666666664" />
+        <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/item_aboutset_head.xml" value="0.27291666666666664" />
+        <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/item_at.xml" value="0.27291666666666664" />
+        <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/item_users.xml" value="0.27291666666666664" />
         <entry key="..\:/Attandance_obhs_RNCC_div/app/src/main/res/layout/navdrawer_layout.xml" value="0.27291666666666664" />
       </map>
     </option>
